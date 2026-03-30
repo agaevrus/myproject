@@ -1,4 +1,3 @@
-Source file3
-adding BB
+tg://proxy?server=89.169.48.70&port=443&secret=ee79612e727595ba04e006a0fb0c456c
 
 
