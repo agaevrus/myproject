@@ -1,1 +1,2 @@
-Source file2
+tg://proxy?server=&port=443&secret=ee79612e7275c439d6a729659aeab9b6
+
